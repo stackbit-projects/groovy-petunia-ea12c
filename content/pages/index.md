@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: BOX!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Sell your Stuf
     actions:
       - label: Try for free
         url: /pricing
